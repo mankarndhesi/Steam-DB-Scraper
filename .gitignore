@@ -4,3 +4,7 @@ backend/src/main/resources/application.properties
 
 .idea/
 .vscode/
+
+scraper/venv
+
+/frontend/node_modules
