@@ -1,0 +1,6 @@
+.env
+frontend/node_modules/
+backend/src/main/resources/application.properties
+
+.idea/
+.vscode/
